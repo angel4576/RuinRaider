@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b757c7f223d563478238baa3d6cadac, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: 
+  dialogueName: 
+  sentences:
+  - Man!
+  - A human! Unbelievable!
+  - 'Scanning... Identity confirmed as a survivor of the nuclear apocalypse. '
+  - Welcome to the remnants of civilization, where humanity is on the brink of extinction
+    and monsters roam the wastelands.
+  - 'Your primary mission involves exploration and resource acquisition. Commence
+    by exiting through the portal located to your left. '
+  - This leads to the outer zones, rich in gold deposits crucial for trade and survival.
+  - 'Subsequent objective: Locate the Merchant Unit. This entity possesses a digital
+    key required to access the Wasteland.'
+  - This area houses the central threat entity, known as 'the Harbinger.'
+  - 'Check the spark on the ground for instructions. '
+  - Good luck.

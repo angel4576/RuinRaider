@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: b61f53243ba08c04a84f748795ffdae0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -106044118477937106
+    second: Bertha_dashAttack_0
+  - first:
+      213: -2768828143330270204
+    second: Bertha_dashAttack_1
+  - first:
+      213: -8034508472420125027
+    second: Bertha_dashAttack_2
+  - first:
+      213: 9018418041315918057
+    second: Bertha_dashAttack_3
+  - first:
+      213: -8311886818433434067
+    second: Bertha_dashAttack_4
+  - first:
+      213: -1595787556298990349
+    second: Bertha_dashAttack_5
+  - first:
+      213: -2319688867166880951
+    second: Bertha_dashAttack_6
+  - first:
+      213: -6742211674183870845
+    second: Bertha_dashAttack_7
+  - first:
+      213: 1537614601326426275
+    second: Bertha_dashAttack_8
+  - first:
+      213: -1084271371199199087
+    second: Bertha_dashAttack_9
+  - first:
+      213: -4091073431907492190
+    second: Bertha_dashAttack_10
+  - first:
+      213: -4479253269096605984
+    second: Bertha_dashAttack_11
+  - first:
+      213: 6466338735205303710
+    second: Bertha_dashAttack_12
+  - first:
+      213: -1884433163910394354
+    second: Bertha_dashAttack_13
+  - first:
+      213: -8887746849824797657
+    second: Bertha_dashAttack_14
+  - first:
+      213: -1510705426603905766
+    second: Bertha_dashAttack_15
+  - first:
+      213: 1470660681696687553
+    second: Bertha_dashAttack_16
+  - first:
+      213: 6844586149691791429
+    second: Bertha_dashAttack_17
+  - first:
+      213: 7309484489088153741
+    second: Bertha_dashAttack_18
+  - first:
+      213: 6820649360739105645
+    second: Bertha_dashAttack_19
+  - first:
+      213: 6707327412693823032
+    second: Bertha_dashAttack_20
+  - first:
+      213: 6320420236589406836
+    second: Bertha_dashAttack_21
+  - first:
+      213: -5281615050367148296
+    second: Bertha_dashAttack_22
+  - first:
+      213: 4378000820802583995
+    second: Bertha_dashAttack_23
+  - first:
+      213: -8155417893816477497
+    second: Bertha_dashAttack_24
+  - first:
+      213: 6452493287707508102
+    second: Bertha_dashAttack_25
+  - first:
+      213: -3352344293769877820
+    second: Bertha_dashAttack_26
+  - first:
+      213: 5461994472850015839
+    second: Bertha_dashAttack_27
+  - first:
+      213: -7160509482995301621
+    second: Bertha_dashAttack_28
+  - first:
+      213: -2928375063963930186
+    second: Bertha_dashAttack_29
+  - first:
+      213: 244284123511481501
+    second: Bertha_dashAttack_30
+  - first:
+      213: -7133028369087072087
+    second: Bertha_dashAttack_31
+  - first:
+      213: -6417044513499290883
+    second: Bertha_dashAttack_32
+  - first:
+      213: -1497950546485424085
+    second: Bertha_dashAttack_33
+  - first:
+      213: 2658050511044602373
+    second: Bertha_dashAttack_34
+  - first:
+      213: -8590809531829621566
+    second: Bertha_dashAttack_35
+  - first:
+      213: -6294362224119704426
+    second: Bertha_dashAttack_36
+  - first:
+      213: 6901044842810357903
+    second: Bertha_dashAttack_37
+  - first:
+      213: -3458113065317685478
+    second: Bertha_dashAttack_38
+  - first:
+      213: 43157915023800021
+    second: Bertha_dashAttack_39
+  - first:
+      213: 5570821271590811465
+    second: Bertha_dashAttack_40
+  - first:
+      213: 4301893272232703442
+    second: Bertha_dashAttack_41
+  - first:
+      213: 7977061468939192289
+    second: Bertha_dashAttack_42
+  - first:
+      213: 1572799727116500473
+    second: Bertha_dashAttack_43
+  - first:
+      213: 2436401311337933272
+    second: Bertha_dashAttack_44
+  - first:
+      213: -5377510770875331133
+    second: Bertha_dashAttack_45
+  - first:
+      213: 7442822545966192981
+    second: Bertha_dashAttack_46
+  - first:
+      213: -3134604095983573437
+    second: Bertha_dashAttack_47
+  - first:
+      213: -6017774727589017248
+    second: Bertha_dashAttack_48
+  - first:
+      213: 232884299655946444
+    second: Bertha_dashAttack_49
+  - first:
+      213: -1499305558314852235
+    second: Bertha_dashAttack_50
+  - first:
+      213: -7693832941209704435
+    second: Bertha_dashAttack_51
+  - first:
+      213: 803368910259160322
+    second: Bertha_dashAttack_52
+  - first:
+      213: 4677214541743667824
+    second: Bertha_dashAttack_53
+  - first:
+      213: 8010856578598412587
+    second: Bertha_dashAttack_54
+  - first:
+      213: 7867306336065052938
+    second: Bertha_dashAttack_55
+  - first:
+      213: 2006471220164911494
+    second: Bertha_dashAttack_56
+  - first:
+      213: 3905413341038050125
+    second: Bertha_dashAttack_57
+  - first:
+      213: -3425663531985137895
+    second: Bertha_dashAttack_58
+  - first:
+      213: -1710146647164204548
+    second: Bertha_dashAttack_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bertha_dashAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e266a93af61478ef0800000000000000
+      internalID: -106044118477937106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404e1b839752399d0800000000000000
+      internalID: -2768828143330270204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96388cec11bf7090800000000000000
+      internalID: -8034508472420125027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e00c9c4d6bd72d70800000000000000
+      internalID: 9018418041315918057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 448
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ef5061afe36ac80800000000000000
+      internalID: -8311886818433434067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 448
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc5fc12caf9ad9e0800000000000000
+      internalID: -1595787556298990349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bf61bf34fcecfd0800000000000000
+      internalID: -2319688867166880951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38657cf343ade62a0800000000000000
+      internalID: -6742211674183870845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 336
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8f3815554b65510800000000000000
+      internalID: 1537614601326426275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 336
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198cb8fbee4e3f0f0800000000000000
+      internalID: -1084271371199199087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 336
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae9d1d93669937c0800000000000000
+      internalID: -4091073431907492190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 336
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e65d7442ee76d1c0800000000000000
+      internalID: -4479253269096605984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95c24dc1dc0db950800000000000000
+      internalID: 6466338735205303710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ec726850629d5e0800000000000000
+      internalID: -1884433163910394354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c8892545168a480800000000000000
+      internalID: -8887746849824797657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 224
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1de4072b65e80be0800000000000000
+      internalID: -1510705426603905766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 224
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c53aad1916d86410800000000000000
+      internalID: 1470660681696687553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 224
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54810f6c6dadcfe50800000000000000
+      internalID: 6844586149691791429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88b35f5a61807560800000000000000
+      internalID: 7309484489088153741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b795cc470d7ae50800000000000000
+      internalID: 6820649360739105645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83eead1beb6351d50800000000000000
+      internalID: 6707327412693823032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 112
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a1a19d7b4a6b750800000000000000
+      internalID: 6320420236589406836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 112
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe528a481fe3b6b0800000000000000
+      internalID: -5281615050367148296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 112
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd7e460d88c1cc30800000000000000
+      internalID: 4378000820802583995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8543482a222de80800000000000000
+      internalID: -8155417893816477497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68df569557cdb8950800000000000000
+      internalID: 6452493287707508102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6e90550a41a71d0800000000000000
+      internalID: -3352344293769877820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_dashAttack_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f564f5fb807eccb40800000000000000
+      internalID: 5461994472850015839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9566c6e85ae16be4380e35d022dc88cf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bertha_dashAttack_0: -106044118477937106
+      Bertha_dashAttack_1: -2768828143330270204
+      Bertha_dashAttack_10: -4091073431907492190
+      Bertha_dashAttack_11: -4479253269096605984
+      Bertha_dashAttack_12: 6466338735205303710
+      Bertha_dashAttack_13: -1884433163910394354
+      Bertha_dashAttack_14: -8887746849824797657
+      Bertha_dashAttack_15: -1510705426603905766
+      Bertha_dashAttack_16: 1470660681696687553
+      Bertha_dashAttack_17: 6844586149691791429
+      Bertha_dashAttack_18: 7309484489088153741
+      Bertha_dashAttack_19: 6820649360739105645
+      Bertha_dashAttack_2: -8034508472420125027
+      Bertha_dashAttack_20: 6707327412693823032
+      Bertha_dashAttack_21: 6320420236589406836
+      Bertha_dashAttack_22: -5281615050367148296
+      Bertha_dashAttack_23: 4378000820802583995
+      Bertha_dashAttack_24: -8155417893816477497
+      Bertha_dashAttack_25: 6452493287707508102
+      Bertha_dashAttack_26: -3352344293769877820
+      Bertha_dashAttack_27: 5461994472850015839
+      Bertha_dashAttack_3: 9018418041315918057
+      Bertha_dashAttack_4: -8311886818433434067
+      Bertha_dashAttack_5: -1595787556298990349
+      Bertha_dashAttack_6: -2319688867166880951
+      Bertha_dashAttack_7: -6742211674183870845
+      Bertha_dashAttack_8: 1537614601326426275
+      Bertha_dashAttack_9: -1084271371199199087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

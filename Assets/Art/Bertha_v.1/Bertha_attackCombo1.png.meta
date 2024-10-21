@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 8f52ec1ff256bb44aac8fd2f7d7bdda3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6956303116659352361
+    second: Bertha_attackCombo1_0
+  - first:
+      213: -2803852904778635169
+    second: Bertha_attackCombo1_1
+  - first:
+      213: -4328260387272625949
+    second: Bertha_attackCombo1_2
+  - first:
+      213: -2606161928567643676
+    second: Bertha_attackCombo1_3
+  - first:
+      213: 3009085976262030769
+    second: Bertha_attackCombo1_4
+  - first:
+      213: -850763432803324919
+    second: Bertha_attackCombo1_5
+  - first:
+      213: -4196505414350332962
+    second: Bertha_attackCombo1_6
+  - first:
+      213: 2669965066109282832
+    second: Bertha_attackCombo1_7
+  - first:
+      213: 2837191763218371354
+    second: Bertha_attackCombo1_8
+  - first:
+      213: 2558757250021594877
+    second: Bertha_attackCombo1_9
+  - first:
+      213: 8465149323321696436
+    second: Bertha_attackCombo1_10
+  - first:
+      213: 6088310700640055536
+    second: Bertha_attackCombo1_11
+  - first:
+      213: 3469520539301238731
+    second: Bertha_attackCombo1_12
+  - first:
+      213: -4561255233583264497
+    second: Bertha_attackCombo1_13
+  - first:
+      213: -4044806029955104289
+    second: Bertha_attackCombo1_14
+  - first:
+      213: 6591020304986014122
+    second: Bertha_attackCombo1_15
+  - first:
+      213: -816180981609158223
+    second: Bertha_attackCombo1_16
+  - first:
+      213: 6647874305954167326
+    second: Bertha_attackCombo1_17
+  - first:
+      213: 3948472242020316203
+    second: Bertha_attackCombo1_18
+  - first:
+      213: -3546207243712044322
+    second: Bertha_attackCombo1_19
+  - first:
+      213: -5088584618004475274
+    second: Bertha_attackCombo1_20
+  - first:
+      213: -7942847271594458110
+    second: Bertha_attackCombo1_21
+  - first:
+      213: 5476362986323083021
+    second: Bertha_attackCombo1_22
+  - first:
+      213: 6933768363487881525
+    second: Bertha_attackCombo1_23
+  - first:
+      213: -6049191984661760729
+    second: Bertha_attackCombo1_24
+  - first:
+      213: 6388065304959078697
+    second: Bertha_attackCombo1_25
+  - first:
+      213: 5689555990333274731
+    second: Bertha_attackCombo1_26
+  - first:
+      213: -5783754231207326942
+    second: Bertha_attackCombo1_27
+  - first:
+      213: 387643850028964935
+    second: Bertha_attackCombo1_28
+  - first:
+      213: -4580210710891844163
+    second: Bertha_attackCombo1_29
+  - first:
+      213: 764853761308242159
+    second: Bertha_attackCombo1_30
+  - first:
+      213: -4467643980803805367
+    second: Bertha_attackCombo1_31
+  - first:
+      213: -4997108710314462524
+    second: Bertha_attackCombo1_32
+  - first:
+      213: -8030874116207007554
+    second: Bertha_attackCombo1_33
+  - first:
+      213: -7202150692026414356
+    second: Bertha_attackCombo1_34
+  - first:
+      213: 6408496256551162234
+    second: Bertha_attackCombo1_35
+  - first:
+      213: 5480887681714456241
+    second: Bertha_attackCombo1_36
+  - first:
+      213: -4784452961154789611
+    second: Bertha_attackCombo1_37
+  - first:
+      213: 5820581347324414953
+    second: Bertha_attackCombo1_38
+  - first:
+      213: -2105039278623051450
+    second: Bertha_attackCombo1_39
+  - first:
+      213: -2570006786247867064
+    second: Bertha_attackCombo1_40
+  - first:
+      213: -5767328877488766409
+    second: Bertha_attackCombo1_41
+  - first:
+      213: 676054933952420109
+    second: Bertha_attackCombo1_42
+  - first:
+      213: -7313927504723689234
+    second: Bertha_attackCombo1_43
+  - first:
+      213: -2393781995862524926
+    second: Bertha_attackCombo1_44
+  - first:
+      213: 2572514127941527835
+    second: Bertha_attackCombo1_45
+  - first:
+      213: -3448248220937917434
+    second: Bertha_attackCombo1_46
+  - first:
+      213: -5856082206854201482
+    second: Bertha_attackCombo1_47
+  - first:
+      213: -2236164531116313661
+    second: Bertha_attackCombo1_48
+  - first:
+      213: 8566852428913988405
+    second: Bertha_attackCombo1_49
+  - first:
+      213: -6419020854124938677
+    second: Bertha_attackCombo1_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9236c6a14d0c98060800000000000000
+      internalID: 6956303116659352361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 560
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58e83873a6b619d0800000000000000
+      internalID: -2803852904778635169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 560
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e078312c1eeee3c0800000000000000
+      internalID: -4328260387272625949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 560
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e12494b88d05dbd0800000000000000
+      internalID: -2606161928567643676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 560
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b535b9a0cb62c920800000000000000
+      internalID: 3009085976262030769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 560
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cadd75a2b7134f0800000000000000
+      internalID: -850763432803324919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 560
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb15a74f8403c5c0800000000000000
+      internalID: -4196505414350332962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a6520e41f9d0520800000000000000
+      internalID: 2669965066109282832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a139b4660eabf5720800000000000000
+      internalID: 2837191763218371354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df61ef97928828320800000000000000
+      internalID: 2558757250021594877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b06a3395704a7570800000000000000
+      internalID: 8465149323321696436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 448
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f03cd133560e7450800000000000000
+      internalID: 6088310700640055536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 448
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7d8f55c86362030800000000000000
+      internalID: 3469520539301238731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 448
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dc068188a23b0c0800000000000000
+      internalID: -4561255233583264497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd10b279856fdd7c0800000000000000
+      internalID: -4044806029955104289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa10412fb02087b50800000000000000
+      internalID: 6591020304986014122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 336
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9a1c6b8b75ca4f0800000000000000
+      internalID: -816180981609158223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 336
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a38d5957ef14c50800000000000000
+      internalID: 6647874305954167326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 336
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b247c1f859acbc630800000000000000
+      internalID: 3948472242020316203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 336
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed260aaec4759cec0800000000000000
+      internalID: -3546207243712044322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 336
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672935a1047b169b0800000000000000
+      internalID: -5088584618004475274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2048e6f4d7655c190800000000000000
+      internalID: -7942847271594458110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f72ecfe13fffb40800000000000000
+      internalID: 5476362986323083021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53969840791b93060800000000000000
+      internalID: 6933768363487881525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 224
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7257810a0f3fc0ca0800000000000000
+      internalID: -6049191984661760729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 224
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9215518ac87f6a850800000000000000
+      internalID: 6388065304959078697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 224
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ab285570d55fe40800000000000000
+      internalID: 5689555990333274731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 224
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b89bc9b2afbbfa0800000000000000
+      internalID: -5783754231207326942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c575c1700316500800000000000000
+      internalID: 387643850028964935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd2adc10a2df60c0800000000000000
+      internalID: -4580210710891844163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe036eb817e4d9a00800000000000000
+      internalID: 764853761308242159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 112
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fe645587dbff1c0800000000000000
+      internalID: -4467643980803805367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 112
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c232b19a14b6aab0800000000000000
+      internalID: -4997108710314462524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 112
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb82a9b6a8a9c8090800000000000000
+      internalID: -8030874116207007554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 112
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea8eeeaa12dc0c90800000000000000
+      internalID: -7202150692026414356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a711724446d8fe850800000000000000
+      internalID: 6408496256551162234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6876abe46001c40800000000000000
+      internalID: 5480887681714456241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bertha_attackCombo1_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f8dc581653a9db0800000000000000
+      internalID: -4784452961154789611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a60b437cdfbd0524aba05fba77fc822f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bertha_attackCombo1_0: 6956303116659352361
+      Bertha_attackCombo1_1: -2803852904778635169
+      Bertha_attackCombo1_10: 8465149323321696436
+      Bertha_attackCombo1_11: 6088310700640055536
+      Bertha_attackCombo1_12: 3469520539301238731
+      Bertha_attackCombo1_13: -4561255233583264497
+      Bertha_attackCombo1_14: -4044806029955104289
+      Bertha_attackCombo1_15: 6591020304986014122
+      Bertha_attackCombo1_16: -816180981609158223
+      Bertha_attackCombo1_17: 6647874305954167326
+      Bertha_attackCombo1_18: 3948472242020316203
+      Bertha_attackCombo1_19: -3546207243712044322
+      Bertha_attackCombo1_2: -4328260387272625949
+      Bertha_attackCombo1_20: -5088584618004475274
+      Bertha_attackCombo1_21: -7942847271594458110
+      Bertha_attackCombo1_22: 5476362986323083021
+      Bertha_attackCombo1_23: 6933768363487881525
+      Bertha_attackCombo1_24: -6049191984661760729
+      Bertha_attackCombo1_25: 6388065304959078697
+      Bertha_attackCombo1_26: 5689555990333274731
+      Bertha_attackCombo1_27: -5783754231207326942
+      Bertha_attackCombo1_28: 387643850028964935
+      Bertha_attackCombo1_29: -4580210710891844163
+      Bertha_attackCombo1_3: -2606161928567643676
+      Bertha_attackCombo1_30: 764853761308242159
+      Bertha_attackCombo1_31: -4467643980803805367
+      Bertha_attackCombo1_32: -4997108710314462524
+      Bertha_attackCombo1_33: -8030874116207007554
+      Bertha_attackCombo1_34: -7202150692026414356
+      Bertha_attackCombo1_35: 6408496256551162234
+      Bertha_attackCombo1_36: 5480887681714456241
+      Bertha_attackCombo1_37: -4784452961154789611
+      Bertha_attackCombo1_4: 3009085976262030769
+      Bertha_attackCombo1_5: -850763432803324919
+      Bertha_attackCombo1_6: -4196505414350332962
+      Bertha_attackCombo1_7: 2669965066109282832
+      Bertha_attackCombo1_8: 2837191763218371354
+      Bertha_attackCombo1_9: 2558757250021594877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
