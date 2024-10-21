@@ -22,8 +22,8 @@ Randall (Zhengyang) Wang
 Zirui Huang  
 Randall (Zhengyang) Wang
 ### Audio
-Audio Director: Evie Tang
-Composer: Ryan Austin, Rubens Sohiozer
+Audio Director: Evie Tang  
+Composer: Ryan Austin, Rubens Sohiozer  
 Sound Designers: Ela Morana, Zhe (Tom) Zhao
 ### External Art Assets
 Character and Boss: [Otsoga](https://otsoga.itch.io/)  
